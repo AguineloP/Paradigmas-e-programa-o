@@ -1,0 +1,37 @@
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.Form1.resources
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.vbproj.GenerateResource.cache
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.AssemblyInfoInputs.cache
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.AssemblyInfo.vb
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.vbproj.CoreCompileInputs.cache
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\bin\Debug\net8.0-windows\DamaGame.exe
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\bin\Debug\net8.0-windows\DamaGame.deps.json
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\bin\Debug\net8.0-windows\DamaGame.runtimeconfig.json
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\bin\Debug\net8.0-windows\DamaGame.dll
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\bin\Debug\net8.0-windows\DamaGame.pdb
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.dll
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\refint\DamaGame.dll
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.pdb
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.genruntimeconfig.cache
+C:\Users\davis\Documents\ParadigmaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\ref\DamaGame.dll
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\bin\Debug\net8.0-windows\DamaGame.exe
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\bin\Debug\net8.0-windows\DamaGame.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\bin\Debug\net8.0-windows\DamaGame.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\bin\Debug\net8.0-windows\DamaGame.dll
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\bin\Debug\net8.0-windows\DamaGame.pdb
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.Form1.resources
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.vbproj.GenerateResource.cache
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.AssemblyInfo.vb
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.vbproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.dll
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\refint\DamaGame.dll
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.pdb
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\ref\DamaGame.dll
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\obj\Debug\net8.0-windows\DamaGame.Resources.resources
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\bin\Debug\net8.0-windows\ImagensDama\FundoPreto.png
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\bin\Debug\net8.0-windows\ImagensDama\Tabuleiro.png
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\bin\Debug\net8.0-windows\ImagensDama\PecaAntivirus.png
+C:\Users\User\OneDrive\Área de Trabalho\Jogo da dama\DamaGame\DamaGame\DamaGame\bin\Debug\net8.0-windows\ImagensDama\PecaVirus.png
